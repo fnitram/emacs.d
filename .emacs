@@ -28,7 +28,7 @@
 
 ; CONFIGURATION DE L'AFFICHAGE
 
-(set-face-attribute 'default nil :height 120) ;;définit la taille de la police
+(set-face-attribute 'default nil :height 100) ;;définit la taille de la police
 (menu-bar-mode t) ;;affichage du menu
 (tool-bar-mode 0) ;;affichage de la barre d'outil
 ;; (scroll-bar-mode `right) ;;affichage de la barre de scroll
