@@ -84,3 +84,11 @@
 ;=================================================
 (add-to-list 'load-path "~/.emacs.d/mode/emmet-mode")
 (require 'emmet-mode)
+(iswitchb-mode t)
+
+(global-set-key (kbd "M-d") 'dired)
+;; Définir des touches pour se déplacer rapidement :
+;; Aller à la parenthèse ouvrante correspondante :
+(global-set-key [M-right] 'forward-sexp) 
+;; Aller à la parenthèse Fermante correspondante :
+(global-set-key [M-left] 'backward-sexp) 
