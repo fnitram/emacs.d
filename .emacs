@@ -28,7 +28,7 @@
 
 ; CONFIGURATION DE L'AFFICHAGE
 
-(set-face-attribute 'default nil :height 100) ;;définit la taille de la police
+(set-face-attribute 'default nil :height 110) ;;définit la taille de la police
 (menu-bar-mode t) ;;affichage du menu
 (tool-bar-mode 0) ;;affichage de la barre d'outil
 ;; (scroll-bar-mode `right) ;;affichage de la barre de scroll
@@ -52,6 +52,10 @@
 (require 'color-theme)
 (color-theme-calm-forest) 
 
+;=================================================
+; DIVERS
+;=================================================
+(fset `yes-or-no-p `y-or-n-p) ;; y et n à la place de yes ou no
 
 ;=================================================
 ; CHARGEMENT DES SNIPPETS
@@ -86,9 +90,12 @@
 (require 'emmet-mode)
 (iswitchb-mode t)
 
-(global-set-key (kbd "M-d") 'dired)
-;; Définir des touches pour se déplacer rapidement :
-;; Aller à la parenthèse ouvrante correspondante :
-(global-set-key [M-right] 'forward-sexp) 
-;; Aller à la parenthèse Fermante correspondante :
-(global-set-key [M-left] 'backward-sexp) 
+;=================================================
+; RACCOURCIS
+;=================================================
+
+(global-set-key (kbd "M-s d") 'dired) ;; afficher l'explorateur
+;;(global-set-key (kbd "M-s r") (load-file user-init-file) ;; recharge la configuration d'emacs sans le quitter
+
+(global-set-key [M-right] 'forward-sexp) ;; Aller à la parenthèse ouvrante correspondante
+(global-set-key [M-left] 'backward-sexp)  ;; Aller à la parenthèse Fermante correspondante
