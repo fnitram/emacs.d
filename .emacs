@@ -83,6 +83,14 @@
 (add-to-list 'auto-mode-alist '("\\.inc$" . php-mode))
 (add-to-list 'auto-mode-alist '("\\.tpl$" . php-mode))
 
+(defun phplint-thisfile ()
+(interactive)
+(compile (format "php -l %s" (buffer-file-name))))
+(add-hook 'php-mode-hook
+'(lambda ()
+(local-set-key [f8] 'phplint-thisfile)))
+
+
 ;=================================================
 ; ZEN CODING
 ;=================================================
@@ -99,3 +107,4 @@
 
 (global-set-key [M-right] 'forward-sexp) ;; Aller à la parenthèse ouvrante correspondante
 (global-set-key [M-left] 'backward-sexp)  ;; Aller à la parenthèse Fermante correspondante
+
