@@ -76,12 +76,19 @@
 ;=================================================
 ; MODE POUR PHP
 ;=================================================
-(add-to-list 'load-path "~/.emacs.d/mode/php-mode")
-(require 'php-mode)
-(autoload 'php-mode "php-mode" "Major mode for editing php code." t)
-(add-to-list 'auto-mode-alist '("\\.php$" . php-mode))
-(add-to-list 'auto-mode-alist '("\\.inc$" . php-mode))
-(add-to-list 'auto-mode-alist '("\\.tpl$" . php-mode))
+;;(add-to-list 'load-path "~/.emacs.d/mode/php-mode")
+;;(require 'php-mode)
+;;(autoload 'php-mode "php-mode" "Major mode for editing php code." t)
+
+;;(add-to-list 'auto-mode-alist '("\\.inc$" . php-mode))
+;;(add-to-list 'auto-mode-alist '("\\.tpl$" . php-mode))
+
+(add-to-list 'load-path "~/.emacs.d/mode/web-mode")
+(require 'web-mode)
+(add-to-list 'auto-mode-alist '("\\.php$" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.html$" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.tpl$" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.inc$" . web-mode))
 
 (defun phplint-thisfile ()
 (interactive)
