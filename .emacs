@@ -56,7 +56,7 @@
 ; DIVERS
 ;=================================================
 (fset `yes-or-no-p `y-or-n-p) ;; y et n à la place de yes ou no
-
+(setq make-backup-files nil)
 ;=================================================
 ; CHARGEMENT DES SNIPPETS
 ;=================================================
@@ -89,11 +89,12 @@
 (add-to-list 'auto-mode-alist '("\\.html$" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.tpl$" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.inc$" . web-mode))
+(setq web-mode-code-indent-offset 4)
 
 (defun phplint-thisfile ()
 (interactive)
 (compile (format "php -l %s" (buffer-file-name))))
-(add-hook 'php-mode-hook
+(add-hook 'web-mode-hook
 '(lambda ()
 (local-set-key [f8] 'phplint-thisfile)))
 
