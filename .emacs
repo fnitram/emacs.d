@@ -98,6 +98,11 @@
 '(lambda ()
 (local-set-key [f8] 'phplint-thisfile)))
 
+;=================================================
+; CHARGEMENT DES TAGS
+;=================================================
+(setq tags-table-list
+           '("~/.emacs.d/library/php5.4/TAGS"))
 
 ;=================================================
 ; ZEN CODING
