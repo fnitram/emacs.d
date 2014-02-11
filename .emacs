@@ -121,3 +121,6 @@
 (global-set-key [M-right] 'forward-sexp) ;; Aller à la parenthèse ouvrante correspondante
 (global-set-key [M-left] 'backward-sexp)  ;; Aller à la parenthèse Fermante correspondante
 
+(global-set-key [C-f5] 'shell) 
+
+
