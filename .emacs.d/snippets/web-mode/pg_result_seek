@@ -1,0 +1,1 @@
+pg_result_seek($${result},$${offset})$0

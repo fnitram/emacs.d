@@ -1,0 +1,1 @@
+pg_lo_create($${connection},$${object_id})$0

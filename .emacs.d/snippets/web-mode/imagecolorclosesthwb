@@ -1,0 +1,1 @@
+imagecolorclosesthwb($${image},$${red},$${green},$${blue})$0

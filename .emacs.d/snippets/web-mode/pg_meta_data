@@ -1,0 +1,1 @@
+pg_meta_data($${connection},$${table_name})$0

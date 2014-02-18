@@ -1,0 +1,1 @@
+imagepng($${image},$${filename},$${quality},$${filters})$0

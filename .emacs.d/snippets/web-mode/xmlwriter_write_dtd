@@ -1,0 +1,1 @@
+xmlwriter_write_dtd($${xmlwriter},$${name},$${publicId},$${systemId},$${subset})$0

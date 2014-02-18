@@ -1,0 +1,1 @@
+xmlwriter_start_dtd($${xmlwriter},$${qualifiedName},$${publicId},$${systemId})$0

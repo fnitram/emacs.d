@@ -1,0 +1,1 @@
+imagefilltoborder($${image},$${x},$${y},$${border},$${color})$0

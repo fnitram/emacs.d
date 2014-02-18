@@ -1,0 +1,1 @@
+filter_has_var($${type},$${variable_name})$0

@@ -1,0 +1,1 @@
+stream_socket_client($${remote_socket},$${errno},$${errstr},$${timeout},$${flags},$${context})$0

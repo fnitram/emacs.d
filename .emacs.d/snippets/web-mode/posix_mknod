@@ -1,0 +1,1 @@
+posix_mknod($${pathname},$${mode},$${major},$${minor})$0

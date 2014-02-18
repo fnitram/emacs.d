@@ -1,0 +1,1 @@
+openssl_public_decrypt($${data},$${decrypted},$${key},$${padding})$0

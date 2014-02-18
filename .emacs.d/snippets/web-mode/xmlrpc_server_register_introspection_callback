@@ -1,0 +1,1 @@
+xmlrpc_server_register_introspection_callback($${server},$${function})$0

@@ -1,0 +1,1 @@
+imap_reopen($${imap_stream},$${mailbox},$${options},$${n_retries})$0

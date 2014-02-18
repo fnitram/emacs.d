@@ -1,0 +1,1 @@
+mysqli_get_server_version($${link})$0

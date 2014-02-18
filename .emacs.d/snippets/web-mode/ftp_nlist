@@ -1,0 +1,1 @@
+ftp_nlist($${ftp_stream},$${directory})$0

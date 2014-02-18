@@ -1,0 +1,1 @@
+mssql_fetch_assoc($${result_id})$0

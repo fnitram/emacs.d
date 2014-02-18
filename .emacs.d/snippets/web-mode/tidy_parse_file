@@ -1,0 +1,1 @@
+tidy_parse_file($${file},$${config_options},$${encoding},$${use_include_path})$0

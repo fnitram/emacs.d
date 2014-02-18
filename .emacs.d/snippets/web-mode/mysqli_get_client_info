@@ -1,0 +1,1 @@
+mysqli_get_client_info($${link})$0

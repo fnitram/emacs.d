@@ -1,0 +1,1 @@
+pg_send_query_params($${connection},$${query},$${array params})$0

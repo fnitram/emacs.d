@@ -1,0 +1,1 @@
+vfprintf($${handle},$${format},$${array args})$0

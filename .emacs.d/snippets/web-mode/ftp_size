@@ -1,0 +1,1 @@
+ftp_size($${ftp_stream},$${remote_file})$0

@@ -1,0 +1,1 @@
+error_log($${message},$${message_type},$${destination},$${extra_headers})$0

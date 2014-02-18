@@ -1,0 +1,1 @@
+imagerotate($${image},$${angle},$${bgd_color},$${ignore_transparent})$0

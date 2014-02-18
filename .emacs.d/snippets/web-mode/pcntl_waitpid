@@ -1,0 +1,1 @@
+pcntl_waitpid($${pid},$${status},$${options})$0

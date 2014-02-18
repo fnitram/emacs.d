@@ -1,0 +1,1 @@
+exec($${command},$${array output},$${return_var})$0

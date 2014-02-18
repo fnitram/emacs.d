@@ -1,0 +1,1 @@
+set_file_buffer($${fp},$${buffer})$0

@@ -1,0 +1,1 @@
+msg_set_queue($${queue},$${array data})$0

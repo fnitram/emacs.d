@@ -1,0 +1,1 @@
+hash_hmac_file($${algo},$${filename},$${key},$${raw_output})$0

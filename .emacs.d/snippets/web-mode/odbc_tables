@@ -1,0 +1,1 @@
+odbc_tables($${connection_id},$${qualifier},$${owner},$${name},$${types})$0

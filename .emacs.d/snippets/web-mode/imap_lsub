@@ -1,0 +1,1 @@
+imap_lsub($${imap_stream},$${ref},$${pattern})$0

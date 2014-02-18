@@ -1,0 +1,1 @@
+getopt($${options},$${array longopts})$0

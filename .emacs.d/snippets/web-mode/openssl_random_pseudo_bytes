@@ -1,0 +1,1 @@
+openssl_random_pseudo_bytes($${length},$${crypto_strong})$0

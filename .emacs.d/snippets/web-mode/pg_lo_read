@@ -1,0 +1,1 @@
+pg_lo_read($${large_object},$${len})$0

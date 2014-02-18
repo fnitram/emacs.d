@@ -1,0 +1,1 @@
+grapheme_strpos($${haystack},$${needle},$${offset})$0

@@ -1,0 +1,1 @@
+ldap_rename($${link_identifier},$${dn},$${newrdn},$${newparent},$${deleteoldrdn})$0

@@ -1,0 +1,1 @@
+imap_open($${mailbox},$${username},$${password},$${options},$${n_retries},$${array params})$0

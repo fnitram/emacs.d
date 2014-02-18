@@ -1,0 +1,1 @@
+mysqli_stmt_store_result($${stmt})$0

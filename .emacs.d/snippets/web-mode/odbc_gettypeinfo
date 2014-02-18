@@ -1,0 +1,1 @@
+odbc_gettypeinfo($${connection_id},$${data_type})$0

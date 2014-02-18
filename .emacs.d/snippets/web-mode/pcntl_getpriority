@@ -1,0 +1,1 @@
+pcntl_getpriority($${pid},$${process_identifier})$0

@@ -1,0 +1,1 @@
+mysqli_ssl_set($${link},$${key},$${cert},$${certificate_authority},$${certificate_authority_path},$${cipher})$0

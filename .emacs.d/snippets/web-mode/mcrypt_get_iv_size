@@ -1,0 +1,1 @@
+mcrypt_get_iv_size($${cipher},$${mode})$0

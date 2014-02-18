@@ -1,0 +1,1 @@
+array_walk_recursive($${array input},$${funcname},$${userdata})$0

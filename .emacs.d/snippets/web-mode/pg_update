@@ -1,0 +1,1 @@
+pg_update($${connection},$${table_name},$${array data},$${array condition},$${options})$0

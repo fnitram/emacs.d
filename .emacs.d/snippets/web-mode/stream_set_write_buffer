@@ -1,0 +1,1 @@
+stream_set_write_buffer($${stream},$${buffer})$0

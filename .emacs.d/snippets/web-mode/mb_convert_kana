@@ -1,0 +1,1 @@
+mb_convert_kana($${str},$${option},$${encoding})$0

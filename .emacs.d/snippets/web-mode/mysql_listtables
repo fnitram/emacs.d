@@ -1,0 +1,1 @@
+mysql_listtables($${database_name},$${link_identifier})$0

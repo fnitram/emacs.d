@@ -1,0 +1,1 @@
+pg_fetch_assoc($${result},$${row})$0

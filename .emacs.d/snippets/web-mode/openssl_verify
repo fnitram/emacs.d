@@ -1,0 +1,1 @@
+openssl_verify($${data},$${signature},$${pub_key_id},$${signature_alg})$0

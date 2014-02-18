@@ -1,0 +1,1 @@
+numfmt_parse($${formatter},$${string},$${type},$${position})$0

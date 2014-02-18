@@ -1,0 +1,1 @@
+pg_loexport($${connection},$${objoid},$${filename})$0

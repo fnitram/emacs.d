@@ -1,0 +1,1 @@
+substr($${string},$${start},$${length})$0

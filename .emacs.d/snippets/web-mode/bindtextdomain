@@ -1,0 +1,1 @@
+bindtextdomain($${domain},$${directory})$0

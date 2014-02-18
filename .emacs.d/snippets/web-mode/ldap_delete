@@ -1,0 +1,1 @@
+ldap_delete($${link_identifier},$${dn})$0

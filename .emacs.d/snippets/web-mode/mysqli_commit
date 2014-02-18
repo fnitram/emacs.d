@@ -1,0 +1,1 @@
+mysqli_commit($${link})$0

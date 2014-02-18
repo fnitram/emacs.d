@@ -1,0 +1,1 @@
+filter_input($${type},$${variable_name},$${filter},$${options})$0

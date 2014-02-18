@@ -1,0 +1,1 @@
+pg_unescape_bytea($${data})$0

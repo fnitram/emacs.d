@@ -1,0 +1,1 @@
+ldap_search($${link_identifier},$${base_dn},$${filter},$${array attributes},$${attrsonly},$${sizelimit},$${timelimit},$${deref})$0

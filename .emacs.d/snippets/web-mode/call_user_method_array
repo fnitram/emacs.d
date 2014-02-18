@@ -1,0 +1,1 @@
+call_user_method_array($${method_name},$${obj},$${array params})$0

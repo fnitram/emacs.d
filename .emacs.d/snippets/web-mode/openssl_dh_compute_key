@@ -1,0 +1,1 @@
+openssl_dh_compute_key($${pub_key},$${dh_key})$0

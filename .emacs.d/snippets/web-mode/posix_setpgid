@@ -1,0 +1,1 @@
+posix_setpgid($${pid},$${pgid})$0

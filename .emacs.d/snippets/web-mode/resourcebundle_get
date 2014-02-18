@@ -1,0 +1,1 @@
+resourcebundle_get($${bundle},$${index},$${fallback})$0

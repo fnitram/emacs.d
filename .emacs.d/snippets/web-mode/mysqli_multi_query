@@ -1,0 +1,1 @@
+mysqli_multi_query($${link},$${query})$0

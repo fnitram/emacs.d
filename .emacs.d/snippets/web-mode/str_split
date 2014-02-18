@@ -1,0 +1,1 @@
+str_split($${string},$${split_length})$0

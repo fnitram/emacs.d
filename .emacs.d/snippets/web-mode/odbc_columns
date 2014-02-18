@@ -1,0 +1,1 @@
+odbc_columns($${connection_id},$${qualifier},$${schema},$${table_name},$${column_name})$0

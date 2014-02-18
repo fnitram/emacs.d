@@ -1,0 +1,1 @@
+mysqli_stmt_data_seek($${stmt},$${offset})$0

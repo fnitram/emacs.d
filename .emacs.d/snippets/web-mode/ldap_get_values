@@ -1,0 +1,1 @@
+ldap_get_values($${link_identifier},$${result_entry_identifier},$${attribute})$0

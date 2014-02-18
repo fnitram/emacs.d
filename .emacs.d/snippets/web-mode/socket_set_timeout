@@ -1,0 +1,1 @@
+socket_set_timeout($${stream},$${seconds},$${microseconds})$0

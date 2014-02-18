@@ -1,0 +1,1 @@
+substr_compare($${main_str},$${str},$${offset},$${length},$${case_insensitivity})$0

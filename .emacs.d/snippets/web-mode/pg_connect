@@ -1,0 +1,1 @@
+pg_connect($${connection_string},$${connect_type})$0

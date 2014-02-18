@@ -1,0 +1,1 @@
+odbc_commit($${connection_id})$0

@@ -1,0 +1,1 @@
+fwrite($${handle},$${string},$${length})$0

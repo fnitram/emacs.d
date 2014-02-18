@@ -1,0 +1,1 @@
+imap_timeout($${timeout_type},$${timeout})$0

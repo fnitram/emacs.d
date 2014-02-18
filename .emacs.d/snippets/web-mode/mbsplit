@@ -1,0 +1,1 @@
+mbsplit($${pattern},$${string},$${limit})$0

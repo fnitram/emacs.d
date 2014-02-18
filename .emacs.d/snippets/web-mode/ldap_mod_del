@@ -1,0 +1,1 @@
+ldap_mod_del($${link_identifier},$${dn},$${array entry})$0

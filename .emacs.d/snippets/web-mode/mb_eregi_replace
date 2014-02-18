@@ -1,0 +1,1 @@
+mb_eregi_replace($${pattern},$${replace},$${string},$${option})$0

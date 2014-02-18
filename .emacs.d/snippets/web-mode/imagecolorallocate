@@ -1,0 +1,1 @@
+imagecolorallocate($${image},$${red},$${green},$${blue})$0

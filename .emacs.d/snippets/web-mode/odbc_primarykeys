@@ -1,0 +1,1 @@
+odbc_primarykeys($${connection_id},$${qualifier},$${owner},$${table})$0

@@ -1,0 +1,1 @@
+iconv_strpos($${haystack},$${needle},$${offset},$${charset})$0

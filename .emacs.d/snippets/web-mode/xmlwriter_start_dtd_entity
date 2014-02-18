@@ -1,0 +1,1 @@
+xmlwriter_start_dtd_entity($${xmlwriter},$${name},$${isparam})$0

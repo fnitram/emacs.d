@@ -1,0 +1,1 @@
+call_user_func($${callback},$${parameter},$${_})$0

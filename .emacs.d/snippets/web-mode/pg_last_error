@@ -1,0 +1,1 @@
+pg_last_error($${connection})$0

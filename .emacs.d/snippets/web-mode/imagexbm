@@ -1,0 +1,1 @@
+imagexbm($${image},$${filename},$${foreground})$0

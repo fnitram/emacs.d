@@ -1,0 +1,1 @@
+pcntl_sigtimedwait($${array set},$${array siginfo},$${seconds},$${nanoseconds})$0

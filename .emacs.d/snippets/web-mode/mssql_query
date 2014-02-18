@@ -1,0 +1,1 @@
+mssql_query($${query},$${link_identifier},$${batch_size})$0

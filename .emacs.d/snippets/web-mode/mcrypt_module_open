@@ -1,0 +1,1 @@
+mcrypt_module_open($${algorithm},$${algorithm_directory},$${mode},$${mode_directory})$0

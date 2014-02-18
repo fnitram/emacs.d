@@ -1,0 +1,1 @@
+ini_alter($${varname},$${newvalue})$0

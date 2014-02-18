@@ -1,0 +1,1 @@
+pg_lo_read_all($${large_object})$0

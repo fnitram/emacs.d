@@ -1,0 +1,1 @@
+imagettftext($${image},$${size},$${angle},$${x},$${y},$${color},$${fontfile},$${text})$0

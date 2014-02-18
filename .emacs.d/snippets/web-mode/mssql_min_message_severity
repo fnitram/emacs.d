@@ -1,0 +1,1 @@
+mssql_min_message_severity($${severity})$0

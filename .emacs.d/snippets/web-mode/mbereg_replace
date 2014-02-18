@@ -1,0 +1,1 @@
+mbereg_replace($${pattern},$${replacement},$${string},$${option})$0

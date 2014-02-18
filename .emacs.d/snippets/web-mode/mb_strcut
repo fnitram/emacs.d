@@ -1,0 +1,1 @@
+mb_strcut($${str},$${start},$${length},$${encoding})$0

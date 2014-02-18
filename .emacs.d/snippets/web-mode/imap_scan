@@ -1,0 +1,1 @@
+imap_scan($${stream_id},$${ref},$${pattern},$${content})$0

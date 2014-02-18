@@ -1,0 +1,1 @@
+metaphone($${str},$${phonemes})$0

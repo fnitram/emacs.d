@@ -1,0 +1,1 @@
+mysqli_stmt_prepare($${stmt},$${query})$0

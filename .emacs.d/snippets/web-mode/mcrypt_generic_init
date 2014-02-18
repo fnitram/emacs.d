@@ -1,0 +1,1 @@
+mcrypt_generic_init($${td},$${key},$${iv})$0

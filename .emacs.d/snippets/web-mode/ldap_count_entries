@@ -1,0 +1,1 @@
+ldap_count_entries($${link_identifier},$${result_identifier})$0

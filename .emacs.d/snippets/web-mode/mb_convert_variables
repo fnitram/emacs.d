@@ -1,0 +1,1 @@
+mb_convert_variables($${to_encoding},$${from_encoding},$${vars},$${_})$0

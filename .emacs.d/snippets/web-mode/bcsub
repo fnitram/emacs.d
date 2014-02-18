@@ -1,0 +1,1 @@
+bcsub($${left_operand},$${right_operand},$${scale})$0

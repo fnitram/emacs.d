@@ -1,0 +1,1 @@
+getmxrr($${hostname},$${array mxhosts},$${array weight})$0

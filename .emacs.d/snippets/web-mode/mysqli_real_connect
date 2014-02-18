@@ -1,0 +1,1 @@
+mysqli_real_connect($${link},$${host},$${user},$${password},$${database},$${port},$${socket},$${flags})$0

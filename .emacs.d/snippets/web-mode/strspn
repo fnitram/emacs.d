@@ -1,0 +1,1 @@
+strspn($${subject},$${mask},$${start},$${length})$0

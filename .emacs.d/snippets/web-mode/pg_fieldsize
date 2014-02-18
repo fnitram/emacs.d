@@ -1,0 +1,1 @@
+pg_fieldsize($${result},$${field_number})$0

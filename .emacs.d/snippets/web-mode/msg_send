@@ -1,0 +1,1 @@
+msg_send($${queue},$${msgtype},$${message},$${serialize},$${blocking},$${errorcode})$0

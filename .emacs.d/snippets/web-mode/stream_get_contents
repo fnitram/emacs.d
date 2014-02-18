@@ -1,0 +1,1 @@
+stream_get_contents($${handle},$${maxlength},$${offset})$0

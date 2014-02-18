@@ -1,0 +1,1 @@
+xmlrpc_encode_request($${method},$${params},$${array output_options})$0

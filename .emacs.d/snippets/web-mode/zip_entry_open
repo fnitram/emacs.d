@@ -1,0 +1,1 @@
+zip_entry_open($${zip},$${zip_entry},$${mode})$0

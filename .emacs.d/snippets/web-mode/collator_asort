@@ -1,0 +1,1 @@
+collator_asort($${Collator objectarray },$${arr},$${sort_flags})$0

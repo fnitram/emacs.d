@@ -1,0 +1,1 @@
+pg_exec($${connection},$${query})$0

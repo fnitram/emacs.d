@@ -1,0 +1,1 @@
+openssl_csr_new($${array dn},$${privkey},$${array configargs},$${array extraattribs})$0

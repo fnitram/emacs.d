@@ -1,0 +1,1 @@
+mcrypt_ecb($${cipher},$${key},$${data},$${mode})$0

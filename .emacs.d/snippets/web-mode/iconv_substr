@@ -1,0 +1,1 @@
+iconv_substr($${str},$${offset},$${length},$${charset})$0

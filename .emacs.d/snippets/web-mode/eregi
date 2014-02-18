@@ -1,0 +1,1 @@
+eregi($${pattern},$${string},$${array regs})$0

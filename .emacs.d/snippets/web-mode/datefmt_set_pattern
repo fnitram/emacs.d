@@ -1,0 +1,1 @@
+datefmt_set_pattern($${mf},$${pattern})$0

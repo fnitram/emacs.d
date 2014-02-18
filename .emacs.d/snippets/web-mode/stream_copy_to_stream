@@ -1,0 +1,1 @@
+stream_copy_to_stream($${source},$${dest},$${maxlength},$${offset})$0

@@ -1,0 +1,1 @@
+idn_to_ascii($${utf8_domain},$${errorcode},$${domain},$${options},$${variant},$${array idna_info})$0

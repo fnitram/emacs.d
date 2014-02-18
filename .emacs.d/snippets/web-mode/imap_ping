@@ -1,0 +1,1 @@
+imap_ping($${imap_stream})$0

@@ -1,0 +1,1 @@
+ldap_compare($${link_identifier},$${dn},$${attribute},$${value})$0

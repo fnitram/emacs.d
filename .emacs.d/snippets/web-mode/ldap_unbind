@@ -1,0 +1,1 @@
+ldap_unbind($${link_identifier})$0

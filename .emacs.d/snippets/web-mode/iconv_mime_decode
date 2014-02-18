@@ -1,0 +1,1 @@
+iconv_mime_decode($${encoded_header},$${mode},$${charset})$0

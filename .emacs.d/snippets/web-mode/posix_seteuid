@@ -1,0 +1,1 @@
+posix_seteuid($${uid})$0

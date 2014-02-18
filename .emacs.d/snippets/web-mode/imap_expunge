@@ -1,0 +1,1 @@
+imap_expunge($${imap_stream})$0

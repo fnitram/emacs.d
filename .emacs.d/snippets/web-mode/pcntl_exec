@@ -1,0 +1,1 @@
+pcntl_exec($${path},$${array args},$${array envs})$0

@@ -1,0 +1,1 @@
+mysqli_stmt_attr_set($${stmt},$${attribute},$${value})$0

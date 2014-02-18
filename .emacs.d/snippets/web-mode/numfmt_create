@@ -1,0 +1,1 @@
+numfmt_create($${locale},$${style},$${pattern})$0

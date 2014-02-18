@@ -1,0 +1,1 @@
+mysqli_prepare($${link},$${query})$0

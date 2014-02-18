@@ -1,0 +1,1 @@
+closedir($${dir_handle})$0

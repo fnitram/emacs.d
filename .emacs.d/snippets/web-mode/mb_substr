@@ -1,0 +1,1 @@
+mb_substr($${str},$${start},$${length},$${encoding})$0

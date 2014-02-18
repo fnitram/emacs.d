@@ -1,0 +1,1 @@
+mysqli_field_seek($${result},$${field_nr})$0

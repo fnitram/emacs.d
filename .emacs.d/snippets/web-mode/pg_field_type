@@ -1,0 +1,1 @@
+pg_field_type($${result},$${field_number})$0

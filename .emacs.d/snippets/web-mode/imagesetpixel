@@ -1,0 +1,1 @@
+imagesetpixel($${image},$${x},$${y},$${color})$0

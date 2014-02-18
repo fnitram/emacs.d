@@ -1,0 +1,1 @@
+substr_count($${haystack},$${needle},$${offset},$${length})$0

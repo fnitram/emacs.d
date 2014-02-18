@@ -1,0 +1,1 @@
+ldap_add($${link_identifier},$${dn},$${array entry})$0

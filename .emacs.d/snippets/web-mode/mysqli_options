@@ -1,0 +1,1 @@
+mysqli_options($${link},$${option},$${value})$0

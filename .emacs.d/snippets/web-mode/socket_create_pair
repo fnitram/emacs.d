@@ -1,0 +1,1 @@
+socket_create_pair($${domain},$${type},$${protocol},$${array fd})$0

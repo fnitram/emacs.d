@@ -1,0 +1,1 @@
+imap_search($${imap_stream},$${criteria},$${options},$${charset})$0

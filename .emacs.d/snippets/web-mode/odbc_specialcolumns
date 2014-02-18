@@ -1,0 +1,1 @@
+odbc_specialcolumns($${connection_id},$${type},$${qualifier},$${owner},$${table},$${scope},$${nullable})$0

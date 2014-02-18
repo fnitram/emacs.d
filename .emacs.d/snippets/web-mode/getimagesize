@@ -1,0 +1,1 @@
+getimagesize($${filename},$${array imageinfo})$0

@@ -1,0 +1,1 @@
+mysql_result($${result},$${row},$${field})$0

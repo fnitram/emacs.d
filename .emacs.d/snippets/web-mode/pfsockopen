@@ -1,0 +1,1 @@
+pfsockopen($${hostname},$${port},$${errno},$${errstr},$${timeout})$0

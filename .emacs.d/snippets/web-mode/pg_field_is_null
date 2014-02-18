@@ -1,0 +1,1 @@
+pg_field_is_null($${result},$${row},$${field})$0

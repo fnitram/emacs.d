@@ -1,0 +1,1 @@
+gzfile($${filename},$${use_include_path})$0

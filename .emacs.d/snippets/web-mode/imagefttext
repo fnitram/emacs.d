@@ -1,0 +1,1 @@
+imagefttext($${image},$${size},$${angle},$${x},$${y},$${color},$${fontfile},$${text},$${array extrainfo})$0

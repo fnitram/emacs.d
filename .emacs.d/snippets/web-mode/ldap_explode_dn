@@ -1,0 +1,1 @@
+ldap_explode_dn($${dn},$${with_attrib})$0

@@ -1,0 +1,1 @@
+imap_fetchheader($${imap_stream},$${msg_number},$${options})$0

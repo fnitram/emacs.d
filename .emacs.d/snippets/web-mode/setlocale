@@ -1,0 +1,1 @@
+setlocale($${category},$${locale},$${_})$0

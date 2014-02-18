@@ -1,0 +1,1 @@
+mysql_fieldname($${result},$${field_index})$0

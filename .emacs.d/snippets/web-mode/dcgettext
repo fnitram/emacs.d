@@ -1,0 +1,1 @@
+dcgettext($${domain},$${message},$${category})$0

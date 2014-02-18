@@ -1,0 +1,1 @@
+imap_fetchtext($${stream_id},$${msg_no},$${options})$0

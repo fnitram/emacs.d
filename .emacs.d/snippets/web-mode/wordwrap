@@ -1,0 +1,1 @@
+wordwrap($${str},$${width},$${break},$${cut})$0

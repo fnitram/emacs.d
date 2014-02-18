@@ -1,0 +1,1 @@
+ftp_nb_get($${ftp_stream},$${local_file},$${remote_file},$${mode},$${resumepos})$0

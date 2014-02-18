@@ -1,0 +1,1 @@
+ftp_chmod($${ftp_stream},$${mode},$${filename})$0

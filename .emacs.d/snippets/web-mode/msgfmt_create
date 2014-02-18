@@ -1,0 +1,1 @@
+msgfmt_create($${locale},$${pattern})$0

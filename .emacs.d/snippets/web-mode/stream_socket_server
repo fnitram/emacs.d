@@ -1,0 +1,1 @@
+stream_socket_server($${local_socket},$${errno},$${errstr},$${flags},$${context})$0

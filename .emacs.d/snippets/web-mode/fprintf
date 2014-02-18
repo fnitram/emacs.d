@@ -1,0 +1,1 @@
+fprintf($${handle},$${format},$${args},$${_})$0

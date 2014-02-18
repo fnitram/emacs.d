@@ -1,0 +1,1 @@
+array_uintersect_assoc($${array array1},$${array array2},$${array _},$${data_compare_func})$0

@@ -1,0 +1,1 @@
+odbc_setoption($${id},$${function},$${option},$${param})$0

@@ -1,0 +1,1 @@
+fputcsv($${handle},$${array fields},$${delimiter},$${enclosure})$0

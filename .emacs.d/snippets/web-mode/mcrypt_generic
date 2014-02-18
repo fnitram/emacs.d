@@ -1,0 +1,1 @@
+mcrypt_generic($${td},$${data})$0

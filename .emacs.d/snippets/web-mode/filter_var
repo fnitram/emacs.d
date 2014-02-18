@@ -1,0 +1,1 @@
+filter_var($${variable},$${filter},$${options})$0

@@ -1,0 +1,1 @@
+mysql_fieldlen($${result},$${field_offset})$0

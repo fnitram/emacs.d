@@ -1,0 +1,1 @@
+stream_socket_sendto($${socket},$${data},$${flags},$${address})$0

@@ -1,0 +1,1 @@
+mysql_fetch_array($${result},$${result_type})$0

@@ -1,0 +1,1 @@
+ldap_set_option($${link_identifier},$${option},$${newval})$0

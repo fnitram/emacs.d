@@ -1,0 +1,1 @@
+imap_setacl($${imap_stream},$${mailbox},$${id},$${rights})$0

@@ -1,0 +1,1 @@
+vprintf($${format},$${array args})$0

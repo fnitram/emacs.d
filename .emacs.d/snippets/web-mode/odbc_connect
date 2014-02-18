@@ -1,0 +1,1 @@
+odbc_connect($${dsn},$${user},$${password},$${cursor_type})$0

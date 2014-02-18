@@ -1,0 +1,1 @@
+proc_open($${cmd},$${array descriptorspec},$${array pipes},$${cwd},$${array env},$${array other_options})$0

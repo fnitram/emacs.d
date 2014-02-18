@@ -1,0 +1,1 @@
+apc_add($${key},$${var},$${ttl})$0

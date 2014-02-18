@@ -1,0 +1,1 @@
+imap_listmailbox($${stream_id},$${ref},$${pattern})$0

@@ -1,0 +1,1 @@
+call_user_method($${method_name},$${obj},$${parameter},$${_})$0

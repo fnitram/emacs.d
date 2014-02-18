@@ -1,0 +1,1 @@
+openlog($${ident},$${option},$${facility})$0

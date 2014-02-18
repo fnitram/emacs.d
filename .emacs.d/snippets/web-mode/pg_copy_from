@@ -1,0 +1,1 @@
+pg_copy_from($${connection},$${table_name},$${array rows},$${delimiter},$${null_as})$0

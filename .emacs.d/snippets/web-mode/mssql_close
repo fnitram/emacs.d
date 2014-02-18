@@ -1,0 +1,1 @@
+mssql_close($${link_identifier})$0

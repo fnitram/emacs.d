@@ -1,0 +1,1 @@
+iconv_set_encoding($${type},$${charset})$0

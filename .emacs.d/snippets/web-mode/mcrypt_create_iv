@@ -1,0 +1,1 @@
+mcrypt_create_iv($${size},$${source})$0

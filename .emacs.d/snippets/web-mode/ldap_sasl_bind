@@ -1,0 +1,1 @@
+ldap_sasl_bind($${link},$${binddn},$${password},$${sasl_mech},$${sasl_realm},$${sasl_authc_id},$${sasl_authz_id},$${props})$0

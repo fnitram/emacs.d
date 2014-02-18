@@ -1,0 +1,1 @@
+openssl_csr_get_subject($${csr},$${use_shortnames})$0

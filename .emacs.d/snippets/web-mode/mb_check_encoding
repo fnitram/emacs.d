@@ -1,0 +1,1 @@
+mb_check_encoding($${var},$${encoding})$0

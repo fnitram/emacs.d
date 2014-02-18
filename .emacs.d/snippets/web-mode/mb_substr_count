@@ -1,0 +1,1 @@
+mb_substr_count($${haystack},$${needle},$${encoding})$0

@@ -1,0 +1,1 @@
+imap_fetchstructure($${imap_stream},$${msg_number},$${options})$0

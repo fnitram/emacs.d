@@ -1,0 +1,1 @@
+stream_filter_prepend($${stream},$${filtername},$${read_write},$${params})$0

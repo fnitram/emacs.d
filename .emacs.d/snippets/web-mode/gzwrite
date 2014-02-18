@@ -1,0 +1,1 @@
+gzwrite($${zp},$${string},$${length})$0

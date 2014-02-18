@@ -1,0 +1,1 @@
+pcntl_wifexited($${status})$0

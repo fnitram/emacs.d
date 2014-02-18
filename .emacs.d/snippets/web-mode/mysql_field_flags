@@ -1,0 +1,1 @@
+mysql_field_flags($${result},$${field_offset})$0

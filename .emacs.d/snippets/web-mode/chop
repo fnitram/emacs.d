@@ -1,0 +1,1 @@
+chop($${str},$${character_mask})$0

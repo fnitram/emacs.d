@@ -1,0 +1,1 @@
+odbc_binmode($${result_id},$${mode})$0

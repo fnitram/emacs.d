@@ -1,0 +1,1 @@
+read_exif_data($${filename},$${sections_needed},$${sub_arrays},$${read_thumbnail})$0

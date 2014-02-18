@@ -1,0 +1,1 @@
+mysql_field_table($${result},$${field_offset})$0

@@ -1,0 +1,1 @@
+imagecolorresolvealpha($${image},$${red},$${green},$${blue},$${alpha})$0

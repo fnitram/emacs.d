@@ -1,0 +1,1 @@
+ftp_login($${ftp_stream},$${username},$${password})$0

@@ -1,0 +1,1 @@
+stream_set_blocking($${stream},$${mode})$0

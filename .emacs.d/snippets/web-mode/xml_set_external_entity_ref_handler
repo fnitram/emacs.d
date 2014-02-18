@@ -1,0 +1,1 @@
+xml_set_external_entity_ref_handler($${parser},$${handler})$0

@@ -1,0 +1,1 @@
+mysqli_escape_string($${link},$${query})$0

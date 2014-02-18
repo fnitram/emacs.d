@@ -1,0 +1,1 @@
+pg_lo_export($${connection},$${oid},$${pathname})$0

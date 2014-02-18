@@ -1,0 +1,1 @@
+stream_context_set_option($${stream_or_context},$${wrapper},$${option},$${value})$0

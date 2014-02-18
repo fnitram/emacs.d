@@ -1,0 +1,1 @@
+socket_send($${socket},$${buf},$${len},$${flags})$0

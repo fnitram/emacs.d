@@ -1,0 +1,1 @@
+xmlrpc_server_call_method($${server},$${xml},$${user_data},$${array output_options})$0

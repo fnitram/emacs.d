@@ -1,0 +1,1 @@
+bcpowmod($${left_operand},$${right_operand},$${modulus},$${scale})$0

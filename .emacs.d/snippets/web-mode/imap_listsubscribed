@@ -1,0 +1,1 @@
+imap_listsubscribed($${stream_id},$${ref},$${pattern})$0

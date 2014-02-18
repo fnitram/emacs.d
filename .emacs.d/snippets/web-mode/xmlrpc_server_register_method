@@ -1,0 +1,1 @@
+xmlrpc_server_register_method($${server},$${method_name},$${function})$0

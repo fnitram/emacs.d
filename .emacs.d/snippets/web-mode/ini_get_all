@@ -1,0 +1,1 @@
+ini_get_all($${extension},$${details})$0

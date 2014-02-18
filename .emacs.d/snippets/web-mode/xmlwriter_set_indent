@@ -1,0 +1,1 @@
+xmlwriter_set_indent($${xmlwriter},$${indent})$0

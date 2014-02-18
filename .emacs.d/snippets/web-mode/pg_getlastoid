@@ -1,0 +1,1 @@
+pg_getlastoid($${result})$0

@@ -1,0 +1,1 @@
+str_repeat($${input},$${multiplier})$0

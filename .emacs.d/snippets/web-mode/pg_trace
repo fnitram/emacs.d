@@ -1,0 +1,1 @@
+pg_trace($${pathname},$${mode},$${connection})$0

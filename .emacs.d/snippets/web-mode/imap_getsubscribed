@@ -1,0 +1,1 @@
+imap_getsubscribed($${imap_stream},$${ref},$${pattern})$0

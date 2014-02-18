@@ -1,0 +1,1 @@
+stream_socket_pair($${domain},$${type},$${protocol})$0

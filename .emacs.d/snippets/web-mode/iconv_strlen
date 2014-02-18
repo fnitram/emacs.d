@@ -1,0 +1,1 @@
+iconv_strlen($${str},$${charset})$0

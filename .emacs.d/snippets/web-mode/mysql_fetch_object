@@ -1,0 +1,1 @@
+mysql_fetch_object($${result},$${class_name},$${array params})$0

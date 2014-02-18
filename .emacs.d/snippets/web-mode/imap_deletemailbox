@@ -1,0 +1,1 @@
+imap_deletemailbox($${imap_stream},$${mailbox})$0

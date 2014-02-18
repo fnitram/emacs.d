@@ -1,0 +1,1 @@
+shm_attach($${key},$${memsize},$${perm})$0

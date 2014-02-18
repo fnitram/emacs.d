@@ -1,0 +1,1 @@
+odbc_execute($${result_id},$${array parameters_array})$0

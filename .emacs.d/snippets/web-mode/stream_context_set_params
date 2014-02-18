@@ -1,0 +1,1 @@
+stream_context_set_params($${stream_or_context},$${array params})$0

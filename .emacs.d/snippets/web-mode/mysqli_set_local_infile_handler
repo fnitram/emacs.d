@@ -1,0 +1,1 @@
+mysqli_set_local_infile_handler($${link},$${read_callback})$0

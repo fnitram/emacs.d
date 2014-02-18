@@ -1,0 +1,1 @@
+mysqli_dump_debug_info($${link})$0

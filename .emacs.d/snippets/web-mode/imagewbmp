@@ -1,0 +1,1 @@
+imagewbmp($${image},$${filename},$${foreground})$0

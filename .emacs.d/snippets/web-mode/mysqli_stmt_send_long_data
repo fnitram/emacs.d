@@ -1,0 +1,1 @@
+mysqli_stmt_send_long_data($${stmt},$${param_nr},$${data})$0

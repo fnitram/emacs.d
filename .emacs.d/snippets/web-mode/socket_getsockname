@@ -1,0 +1,1 @@
+socket_getsockname($${socket},$${addr},$${port})$0

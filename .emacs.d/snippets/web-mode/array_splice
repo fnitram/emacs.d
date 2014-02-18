@@ -1,0 +1,1 @@
+array_splice($${array input},$${offset},$${length},$${replacement})$0

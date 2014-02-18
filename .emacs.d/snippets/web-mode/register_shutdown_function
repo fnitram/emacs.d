@@ -1,0 +1,1 @@
+register_shutdown_function($${callback},$${parameter},$${_})$0

@@ -1,0 +1,1 @@
+imap_close($${imap_stream},$${flag})$0

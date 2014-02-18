@@ -1,0 +1,1 @@
+mcrypt_list_algorithms($${lib_dir})$0

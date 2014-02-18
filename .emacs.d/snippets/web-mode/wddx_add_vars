@@ -1,0 +1,1 @@
+wddx_add_vars($${packet_id},$${var_name},$${_})$0

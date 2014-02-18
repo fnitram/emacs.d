@@ -1,0 +1,1 @@
+socket_strerror($${errno})$0

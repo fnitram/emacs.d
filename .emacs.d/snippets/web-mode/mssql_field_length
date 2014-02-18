@@ -1,0 +1,1 @@
+mssql_field_length($${result},$${offset})$0

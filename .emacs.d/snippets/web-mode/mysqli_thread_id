@@ -1,0 +1,1 @@
+mysqli_thread_id($${link})$0

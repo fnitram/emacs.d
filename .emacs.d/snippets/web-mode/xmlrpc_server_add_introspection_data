@@ -1,0 +1,1 @@
+xmlrpc_server_add_introspection_data($${server},$${array desc})$0

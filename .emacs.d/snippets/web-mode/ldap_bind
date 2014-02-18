@@ -1,0 +1,1 @@
+ldap_bind($${link_identifier},$${bind_rdn},$${bind_password})$0

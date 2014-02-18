@@ -1,0 +1,1 @@
+ftp_get_option($${ftp_stream},$${option})$0

@@ -1,0 +1,1 @@
+mssql_bind($${stmt},$${param_name},$${var},$${type},$${is_output},$${is_null},$${maxlen})$0

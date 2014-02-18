@@ -1,0 +1,1 @@
+mcrypt_decrypt($${cipher},$${key},$${data},$${mode},$${iv})$0

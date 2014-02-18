@@ -1,0 +1,1 @@
+grapheme_extract($${haystack},$${size},$${extract_type},$${start},$${next})$0

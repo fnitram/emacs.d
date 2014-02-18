@@ -1,0 +1,1 @@
+shmop_write($${shmid},$${data},$${offset})$0

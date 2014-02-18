@@ -1,0 +1,1 @@
+openssl_decrypt($${data},$${method},$${password},$${raw_input},$${iv})$0

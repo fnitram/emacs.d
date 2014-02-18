@@ -1,0 +1,1 @@
+mysqli_stmt_init($${link})$0

@@ -1,0 +1,1 @@
+pg_set_client_encoding($${connection},$${encoding})$0

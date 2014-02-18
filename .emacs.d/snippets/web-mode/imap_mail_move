@@ -1,0 +1,1 @@
+imap_mail_move($${imap_stream},$${msglist},$${mailbox},$${options})$0

@@ -1,0 +1,1 @@
+odbc_fetch_into($${result_id},$${array result_array},$${rownumber})$0

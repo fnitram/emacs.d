@@ -1,0 +1,1 @@
+mysqli_stmt_insert_id($${stmt})$0

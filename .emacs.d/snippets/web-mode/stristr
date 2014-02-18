@@ -1,0 +1,1 @@
+stristr($${haystack},$${needle},$${before_needle})$0

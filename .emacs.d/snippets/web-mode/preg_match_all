@@ -1,0 +1,1 @@
+preg_match_all($${pattern},$${subject},$${array matches},$${flags},$${offset})$0

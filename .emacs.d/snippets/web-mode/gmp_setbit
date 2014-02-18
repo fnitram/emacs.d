@@ -1,0 +1,1 @@
+gmp_setbit($${a},$${index},$${set_clear})$0

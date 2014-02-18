@@ -1,0 +1,1 @@
+shm_remove_var($${shm_identifier},$${variable_key})$0

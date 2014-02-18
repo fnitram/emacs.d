@@ -1,0 +1,1 @@
+parse_ini_string($${ini},$${process_sections},$${scanner_mode})$0

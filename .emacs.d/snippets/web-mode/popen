@@ -1,0 +1,1 @@
+popen($${command},$${mode})$0

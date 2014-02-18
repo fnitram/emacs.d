@@ -1,0 +1,1 @@
+openssl_pkey_export($${key},$${out},$${passphrase},$${array configargs})$0

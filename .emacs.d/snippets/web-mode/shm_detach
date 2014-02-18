@@ -1,0 +1,1 @@
+shm_detach($${shm_identifier})$0

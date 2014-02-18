@@ -1,0 +1,1 @@
+mysqli_real_query($${link},$${query})$0

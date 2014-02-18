@@ -1,0 +1,1 @@
+file_get_contents($${filename},$${use_include_path},$${context},$${offset},$${maxlen})$0

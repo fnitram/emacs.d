@@ -1,0 +1,1 @@
+imap_header($${stream_id},$${msg_no},$${from_length},$${subject_length},$${default_host})$0

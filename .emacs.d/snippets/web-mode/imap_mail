@@ -1,0 +1,1 @@
+imap_mail($${to},$${subject},$${message},$${additional_headers},$${cc},$${bcc},$${rpath})$0

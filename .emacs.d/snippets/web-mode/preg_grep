@@ -1,0 +1,1 @@
+preg_grep($${pattern},$${array input},$${flags})$0

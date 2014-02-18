@@ -1,0 +1,1 @@
+imap_clearflag_full($${imap_stream},$${sequence},$${flag},$${options})$0

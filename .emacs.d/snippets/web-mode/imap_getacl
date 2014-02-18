@@ -1,0 +1,1 @@
+imap_getacl($${imap_stream},$${mailbox})$0

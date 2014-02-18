@@ -1,0 +1,1 @@
+gzopen($${filename},$${mode},$${use_include_path})$0

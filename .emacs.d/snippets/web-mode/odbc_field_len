@@ -1,0 +1,1 @@
+odbc_field_len($${result_id},$${field_number})$0

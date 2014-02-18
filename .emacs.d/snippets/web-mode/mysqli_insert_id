@@ -1,0 +1,1 @@
+mysqli_insert_id($${link})$0

@@ -1,0 +1,1 @@
+pcntl_wexitstatus($${status})$0

@@ -1,0 +1,1 @@
+imagefill($${image},$${x},$${y},$${color})$0

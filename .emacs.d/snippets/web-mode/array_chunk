@@ -1,0 +1,1 @@
+array_chunk($${array input},$${size},$${preserve_keys})$0

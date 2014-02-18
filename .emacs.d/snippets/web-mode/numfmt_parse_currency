@@ -1,0 +1,1 @@
+numfmt_parse_currency($${formatter},$${string},$${currency},$${position})$0

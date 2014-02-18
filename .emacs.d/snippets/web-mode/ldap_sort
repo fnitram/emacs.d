@@ -1,0 +1,1 @@
+ldap_sort($${link},$${result},$${sortfilter})$0

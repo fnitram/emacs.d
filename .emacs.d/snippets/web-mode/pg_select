@@ -1,0 +1,1 @@
+pg_select($${connection},$${table_name},$${array assoc_array},$${options})$0

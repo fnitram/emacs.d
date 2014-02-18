@@ -1,0 +1,1 @@
+imagecolorset($${image},$${index},$${red},$${green},$${blue},$${alpha})$0

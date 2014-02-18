@@ -1,0 +1,1 @@
+pcntl_wait($${status},$${options})$0

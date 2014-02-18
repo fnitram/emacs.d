@@ -1,0 +1,1 @@
+array_intersect_uassoc($${array array1},$${array array2},$${array _},$${key_compare_func})$0

@@ -1,0 +1,1 @@
+imap_listscan($${imap_stream},$${ref},$${pattern},$${content})$0

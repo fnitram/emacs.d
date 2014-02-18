@@ -1,0 +1,1 @@
+pg_escape_bytea($${connection},$${data})$0

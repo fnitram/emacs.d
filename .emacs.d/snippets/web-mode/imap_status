@@ -1,0 +1,1 @@
+imap_status($${imap_stream},$${mailbox},$${options})$0

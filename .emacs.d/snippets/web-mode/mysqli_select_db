@@ -1,0 +1,1 @@
+mysqli_select_db($${link},$${database})$0

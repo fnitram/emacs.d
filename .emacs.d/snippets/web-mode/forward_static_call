@@ -1,0 +1,1 @@
+forward_static_call($${function},$${parameter},$${_})$0

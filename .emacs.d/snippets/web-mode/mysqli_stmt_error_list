@@ -1,0 +1,1 @@
+mysqli_stmt_error_list($${stmt})$0

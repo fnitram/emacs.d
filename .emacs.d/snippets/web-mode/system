@@ -1,0 +1,1 @@
+system($${command},$${return_var})$0

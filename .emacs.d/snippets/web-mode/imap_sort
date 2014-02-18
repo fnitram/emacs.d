@@ -1,0 +1,1 @@
+imap_sort($${imap_stream},$${criteria},$${reverse},$${options},$${search_criteria},$${charset})$0

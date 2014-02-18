@@ -1,0 +1,1 @@
+finfo_set_flags($${finfo},$${options})$0

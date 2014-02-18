@@ -1,0 +1,1 @@
+mysqli_set_local_infile_default($${link})$0

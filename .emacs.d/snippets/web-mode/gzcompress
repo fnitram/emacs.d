@@ -1,0 +1,1 @@
+gzcompress($${data},$${level})$0

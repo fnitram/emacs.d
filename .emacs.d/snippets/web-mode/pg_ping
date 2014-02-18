@@ -1,0 +1,1 @@
+pg_ping($${connection})$0

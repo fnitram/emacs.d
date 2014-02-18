@@ -1,0 +1,1 @@
+pg_lounlink($${connection},$${large_object_oid})$0

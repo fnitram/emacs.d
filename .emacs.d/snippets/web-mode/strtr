@@ -1,0 +1,1 @@
+strtr($${str},$${from},$${to})$0

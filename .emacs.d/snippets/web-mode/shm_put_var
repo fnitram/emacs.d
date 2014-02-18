@@ -1,0 +1,1 @@
+shm_put_var($${shm_identifier},$${variable_key},$${variable})$0

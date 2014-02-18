@@ -1,0 +1,1 @@
+gzencode($${data},$${level},$${encoding_mode})$0

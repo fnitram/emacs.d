@@ -1,0 +1,1 @@
+odbc_statistics($${connection_id},$${qualifier},$${owner},$${table_name},$${unique},$${accuracy})$0

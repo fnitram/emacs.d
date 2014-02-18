@@ -1,0 +1,1 @@
+xml_set_element_handler($${parser},$${start_element_handler},$${end_element_handler})$0

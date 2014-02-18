@@ -1,0 +1,1 @@
+mysql_selectdb($${database_name},$${link_identifier})$0

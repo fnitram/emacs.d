@@ -1,0 +1,1 @@
+imap_rename($${stream_id},$${old_name},$${new_name})$0

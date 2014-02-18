@@ -1,0 +1,1 @@
+mysqli_stmt_sqlstate($${stmt})$0

@@ -1,0 +1,1 @@
+mb_send_mail($${to},$${subject},$${message},$${additional_headers},$${additional_parameter})$0

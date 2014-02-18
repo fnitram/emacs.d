@@ -1,0 +1,1 @@
+xmlwriter_start_dtd_attlist($${xmlwriter},$${name})$0

@@ -1,0 +1,1 @@
+iconv($${in_charset},$${out_charset},$${str})$0

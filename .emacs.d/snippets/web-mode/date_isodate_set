@@ -1,0 +1,1 @@
+date_isodate_set($${object},$${year},$${week},$${day})$0

@@ -1,0 +1,1 @@
+output_add_rewrite_var($${name},$${value})$0

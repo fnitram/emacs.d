@@ -1,0 +1,1 @@
+msg_receive($${queue},$${desiredmsgtype},$${msgtype},$${maxsize},$${message},$${unserialize},$${flags},$${errorcode})$0

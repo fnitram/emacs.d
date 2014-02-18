@@ -1,0 +1,1 @@
+mysql_listfields($${database_name},$${table_name},$${link_identifier})$0

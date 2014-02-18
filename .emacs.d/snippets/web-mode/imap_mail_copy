@@ -1,0 +1,1 @@
+imap_mail_copy($${imap_stream},$${msglist},$${mailbox},$${options})$0

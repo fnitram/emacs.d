@@ -1,0 +1,1 @@
+flock($${handle},$${operation},$${wouldblock})$0

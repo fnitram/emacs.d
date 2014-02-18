@@ -1,0 +1,1 @@
+xmlwriter_write_cdata($${xmlwriter},$${content})$0

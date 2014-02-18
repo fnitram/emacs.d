@@ -1,0 +1,1 @@
+mb_stripos($${haystack},$${needle},$${offset},$${encoding})$0

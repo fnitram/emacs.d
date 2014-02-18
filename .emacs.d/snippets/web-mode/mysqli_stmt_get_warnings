@@ -1,0 +1,1 @@
+mysqli_stmt_get_warnings($${stmt})$0

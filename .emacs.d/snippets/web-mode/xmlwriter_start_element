@@ -1,0 +1,1 @@
+xmlwriter_start_element($${xmlwriter},$${name})$0

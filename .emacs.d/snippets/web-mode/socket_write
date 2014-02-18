@@ -1,0 +1,1 @@
+socket_write($${socket},$${buffer},$${length})$0

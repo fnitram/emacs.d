@@ -1,0 +1,1 @@
+openssl_digest($${data},$${method},$${raw_output})$0

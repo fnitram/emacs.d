@@ -1,0 +1,1 @@
+pg_locreate($${connection},$${large_object_id})$0

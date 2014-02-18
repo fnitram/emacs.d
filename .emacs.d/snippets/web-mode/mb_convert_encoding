@@ -1,0 +1,1 @@
+mb_convert_encoding($${str},$${to_encoding},$${from_encoding})$0

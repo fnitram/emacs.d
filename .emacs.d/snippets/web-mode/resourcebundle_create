@@ -1,0 +1,1 @@
+resourcebundle_create($${locale},$${bundlename},$${fallback})$0

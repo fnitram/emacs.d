@@ -1,0 +1,1 @@
+array_pad($${array input},$${pad_size},$${pad_value})$0

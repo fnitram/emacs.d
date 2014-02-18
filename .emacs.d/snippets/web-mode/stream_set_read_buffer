@@ -1,0 +1,1 @@
+stream_set_read_buffer($${stream},$${buffer})$0

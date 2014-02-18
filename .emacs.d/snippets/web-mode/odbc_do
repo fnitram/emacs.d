@@ -1,0 +1,1 @@
+odbc_do($${connection_id},$${query},$${flags})$0

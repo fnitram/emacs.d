@@ -1,0 +1,1 @@
+strchr($${haystack},$${needle},$${part})$0

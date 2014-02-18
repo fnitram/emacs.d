@@ -1,0 +1,1 @@
+str_pad($${input},$${pad_length},$${pad_string},$${pad_type})$0

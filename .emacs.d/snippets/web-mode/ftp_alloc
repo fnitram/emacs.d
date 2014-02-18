@@ -1,0 +1,1 @@
+ftp_alloc($${ftp_stream},$${filesize},$${result})$0

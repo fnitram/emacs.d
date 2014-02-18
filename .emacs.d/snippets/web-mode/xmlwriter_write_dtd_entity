@@ -1,0 +1,1 @@
+xmlwriter_write_dtd_entity($${xmlwriter},$${name},$${content})$0

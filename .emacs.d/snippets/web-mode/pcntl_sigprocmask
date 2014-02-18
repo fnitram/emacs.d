@@ -1,0 +1,1 @@
+pcntl_sigprocmask($${how},$${array set},$${array oldset})$0

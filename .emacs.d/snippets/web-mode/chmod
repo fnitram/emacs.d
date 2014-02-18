@@ -1,0 +1,1 @@
+chmod($${filename},$${mode})$0

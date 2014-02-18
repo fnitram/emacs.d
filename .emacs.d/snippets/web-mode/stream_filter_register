@@ -1,0 +1,1 @@
+stream_filter_register($${filtername},$${classname})$0

@@ -1,0 +1,1 @@
+stream_register_wrapper($${protocol},$${classname},$${flags})$0

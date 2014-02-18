@@ -1,0 +1,1 @@
+fgetcsv($${handle},$${length},$${delimiter},$${enclosure},$${escape})$0

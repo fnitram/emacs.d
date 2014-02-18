@@ -1,0 +1,1 @@
+eregi_replace($${pattern},$${replacement},$${string})$0

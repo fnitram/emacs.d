@@ -1,0 +1,1 @@
+strripos($${haystack},$${needle},$${offset})$0

@@ -1,0 +1,1 @@
+mb_encode_mimeheader($${str},$${charset},$${transfer_encoding},$${linefeed},$${indent})$0

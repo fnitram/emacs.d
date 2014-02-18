@@ -1,0 +1,1 @@
+mb_decode_numericentity($${str},$${array convmap},$${encoding})$0

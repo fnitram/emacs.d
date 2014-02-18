@@ -1,0 +1,1 @@
+mysql_listdbs($${link_identifier})$0

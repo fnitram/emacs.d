@@ -1,0 +1,1 @@
+mssql_init($${sp_name},$${link_identifier})$0

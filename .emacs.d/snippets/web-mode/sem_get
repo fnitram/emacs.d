@@ -1,0 +1,1 @@
+sem_get($${key},$${max_acquire},$${perm},$${auto_release})$0

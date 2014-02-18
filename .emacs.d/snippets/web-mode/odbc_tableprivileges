@@ -1,0 +1,1 @@
+odbc_tableprivileges($${connection_id},$${qualifier},$${owner},$${name})$0

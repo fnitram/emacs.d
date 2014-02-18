@@ -1,0 +1,1 @@
+mcrypt_module_self_test($${algorithm},$${lib_dir})$0

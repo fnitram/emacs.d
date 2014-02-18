@@ -1,0 +1,1 @@
+odbc_foreignkeys($${connection_id},$${pk_qualifier},$${pk_owner},$${pk_table},$${fk_qualifier},$${fk_owner},$${fk_table})$0

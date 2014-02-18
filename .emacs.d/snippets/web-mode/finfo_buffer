@@ -1,0 +1,1 @@
+finfo_buffer($${finfo},$${string},$${options},$${context})$0

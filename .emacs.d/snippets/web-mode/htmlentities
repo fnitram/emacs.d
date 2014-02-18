@@ -1,0 +1,1 @@
+htmlentities($${string},$${flags},$${charset},$${double_encode})$0

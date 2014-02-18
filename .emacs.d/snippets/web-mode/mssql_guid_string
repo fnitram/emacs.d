@@ -1,0 +1,1 @@
+mssql_guid_string($${binary},$${short_format})$0

@@ -1,0 +1,1 @@
+readline_callback_handler_install($${prompt},$${callback})$0

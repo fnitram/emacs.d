@@ -1,0 +1,1 @@
+ftp_rename($${ftp_stream},$${oldname},$${newname})$0

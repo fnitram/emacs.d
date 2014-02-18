@@ -1,0 +1,1 @@
+numfmt_set_pattern($${nf},$${pattern})$0

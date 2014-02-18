@@ -1,0 +1,1 @@
+imagepolygon($${image},$${array points},$${num_points},$${color})$0

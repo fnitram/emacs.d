@@ -1,0 +1,1 @@
+mb_parse_str($${encoded_string},$${array result})$0

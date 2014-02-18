@@ -1,0 +1,1 @@
+pg_lo_open($${connection},$${oid},$${mode})$0

@@ -1,0 +1,1 @@
+numfmt_set_symbol($${nf},$${attr},$${symbol})$0

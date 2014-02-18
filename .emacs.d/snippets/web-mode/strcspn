@@ -1,0 +1,1 @@
+strcspn($${str1},$${str2},$${start},$${length})$0

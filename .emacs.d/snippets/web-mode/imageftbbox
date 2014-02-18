@@ -1,0 +1,1 @@
+imageftbbox($${size},$${angle},$${fontfile},$${text},$${array extrainfo})$0

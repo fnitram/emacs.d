@@ -1,0 +1,1 @@
+xml_set_character_data_handler($${parser},$${handler})$0

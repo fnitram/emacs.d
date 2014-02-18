@@ -1,0 +1,1 @@
+imap_mail_compose($${array envelope},$${array body})$0

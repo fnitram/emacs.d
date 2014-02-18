@@ -1,0 +1,1 @@
+pg_lo_close($${large_object})$0

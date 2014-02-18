@@ -1,0 +1,1 @@
+pcntl_signal($${signo},$${handler},$${restart_syscalls})$0

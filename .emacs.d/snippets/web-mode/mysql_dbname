@@ -1,0 +1,1 @@
+mysql_dbname($${result},$${row},$${field})$0

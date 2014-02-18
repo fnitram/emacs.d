@@ -1,0 +1,1 @@
+imagetruecolortopalette($${image},$${dither},$${ncolors})$0

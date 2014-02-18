@@ -1,0 +1,1 @@
+pg_loopen($${connection},$${large_object_oid},$${mode})$0

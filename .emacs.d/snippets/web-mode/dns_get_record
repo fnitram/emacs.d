@@ -1,0 +1,1 @@
+dns_get_record($${hostname},$${type},$${array authns},$${array addtl})$0

@@ -1,0 +1,1 @@
+escapeshellarg($${arg})$0

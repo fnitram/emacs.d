@@ -1,0 +1,1 @@
+mcrypt_cbc($${cipher},$${key},$${data},$${mode},$${iv})$0

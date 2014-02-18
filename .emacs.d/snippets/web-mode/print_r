@@ -1,0 +1,1 @@
+print_r($${expression},$${return})$0

@@ -1,0 +1,1 @@
+date_sunset($${timestamp},$${format},$${latitude},$${longitude},$${zenith},$${gmt_offset})$0

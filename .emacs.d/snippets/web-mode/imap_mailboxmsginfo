@@ -1,0 +1,1 @@
+imap_mailboxmsginfo($${imap_stream})$0

@@ -1,0 +1,1 @@
+mb_strrchr($${haystack},$${needle},$${part},$${encoding})$0

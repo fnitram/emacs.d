@@ -1,0 +1,1 @@
+register_tick_function($${function},$${arg},$${_})$0

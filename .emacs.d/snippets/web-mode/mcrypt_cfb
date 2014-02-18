@@ -1,0 +1,1 @@
+mcrypt_cfb($${cipher},$${key},$${data},$${mode},$${iv})$0

@@ -1,0 +1,1 @@
+mssql_result($${result},$${row},$${field})$0

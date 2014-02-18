@@ -1,0 +1,1 @@
+ftp_put($${ftp_stream},$${remote_file},$${local_file},$${mode},$${startpos})$0

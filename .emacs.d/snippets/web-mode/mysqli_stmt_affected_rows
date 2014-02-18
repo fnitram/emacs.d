@@ -1,0 +1,1 @@
+mysqli_stmt_affected_rows($${stmt})$0

@@ -1,0 +1,1 @@
+pg_lowrite($${large_object},$${buf},$${len})$0

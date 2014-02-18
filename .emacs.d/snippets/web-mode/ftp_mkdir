@@ -1,0 +1,1 @@
+ftp_mkdir($${ftp_stream},$${directory})$0

@@ -1,0 +1,1 @@
+socket_read($${socket},$${length},$${type})$0

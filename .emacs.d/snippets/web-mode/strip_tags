@@ -1,0 +1,1 @@
+strip_tags($${str},$${allowable_tags})$0

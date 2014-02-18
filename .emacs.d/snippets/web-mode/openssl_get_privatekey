@@ -1,0 +1,1 @@
+openssl_get_privatekey($${key},$${passphrase})$0

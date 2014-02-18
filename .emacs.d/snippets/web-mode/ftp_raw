@@ -1,0 +1,1 @@
+ftp_raw($${ftp_stream},$${command})$0

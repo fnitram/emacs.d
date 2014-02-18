@@ -1,0 +1,1 @@
+openssl_sign($${data},$${signature},$${priv_key_id},$${signature_alg})$0

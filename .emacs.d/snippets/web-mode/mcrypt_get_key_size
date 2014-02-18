@@ -1,0 +1,1 @@
+mcrypt_get_key_size($${cipher})$0

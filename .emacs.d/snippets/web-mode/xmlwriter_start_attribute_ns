@@ -1,0 +1,1 @@
+xmlwriter_start_attribute_ns($${xmlwriter},$${prefix},$${name},$${uri})$0

@@ -1,0 +1,1 @@
+mssql_pconnect($${servername},$${username},$${password},$${new_link})$0

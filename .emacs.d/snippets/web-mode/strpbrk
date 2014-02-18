@@ -1,0 +1,1 @@
+strpbrk($${haystack},$${char_list})$0

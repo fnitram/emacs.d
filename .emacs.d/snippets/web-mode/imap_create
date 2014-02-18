@@ -1,0 +1,1 @@
+imap_create($${stream_id},$${mailbox})$0

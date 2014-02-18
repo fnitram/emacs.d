@@ -1,0 +1,1 @@
+ltrim($${str},$${charlist})$0

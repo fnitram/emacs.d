@@ -1,0 +1,1 @@
+is_callable($${name},$${syntax_only},$${callable_name})$0
