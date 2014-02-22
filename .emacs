@@ -67,11 +67,6 @@
 (add-to-list 'yas/root-directory "~/.emacs.d/snippets")
 ;(yas/initialize)
 
-;=================================================
-; CHARGEMENT DES TAGS
-;=================================================
-(setq tags-table-list
-           '("~/test/php5.4/TAGS"))
 
 ;=================================================
 ; MODE POUR PHP
@@ -101,8 +96,9 @@
 ;=================================================
 ; CHARGEMENT DES TAGS
 ;=================================================
-(setq tags-table-list
-           '("~/.emacs.d/library/php5.4/TAGS"))
+(add-hook 'web-mode-hook
+'(lambda ()
+(visit-tags-table "~/.emacs.d/library/php5.4/TAGS")))
 
 ;=================================================
 ; ZEN CODING
