@@ -1,4 +1,3 @@
-
 ;=================================================
 ; FICHIER DE CONFIGURATION DE EMACS
 ;=================================================
@@ -120,3 +119,26 @@
 (global-set-key [C-f5] 'shell) 
 
 
+;=================================================
+; AUTOCOMPLETE
+;=================================================
+(require 'auto-complete)
+(add-to-list 'ac-dictionary-directories "~/.emacs.d/dict")
+
+(require 'auto-complete-config)
+;;(global-auto-complete-mode 1)
+;;(add-to-list 'ac-sources 'ac-source-gtags)
+(define-key ac-complete-mode-map "\C-n" 'ac-next)
+(define-key ac-complete-mode-map "\C-p" 'ac-previous)
+(ac-config-default)
+(setq ac-auto-show-menu 1)
+(setq ac-auto-start nil)
+(define-globalized-minor-mode real-global-auto-complete-mode
+  auto-complete-mode (lambda ()
+                       (if (not (minibufferp (current-buffer)))
+                         (auto-complete-mode 1))
+                       ))
+(real-global-auto-complete-mode t)
+(setq-default ac-sources '(ac-source-words-in-same-mode-buffers ac-source-yasnippet ac-source-dictionary))
+(setq ac-menu-height 20)
+(ac-set-trigger-key "TAB")
